@@ -1,11 +1,11 @@
 # Hi there, I'm Nikhil Singh 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Problem+Solver;Tech+Enthusiast;Building+Scalable+Solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Problem+Solver;Tech+Enthusiast;Building+Scalable+Solutions" alt="Typing SVG" />
 </div>
 
 <div align="center">
-  <img src="https://github.com/nikk2511/nikk2511/assets/banner.png" alt="Nikhil Singh Banner" width="100%" style="border-radius: 10px; margin: 20px 0;" />
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.creative-tim.com%2Fblog%2Feducational-tech%2Fhow-to-create-github-profile%2F&psig=AOvVaw1PpsvYzEtQKDaX4kVa_G0c&ust=1757351120633000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCNiCycqRx48DFQAAAAAdAAAAABAM" alt="Nikhil Singh Banner" width="100%" style="border-radius: 10px; margin: 20px 0;" />
 </div>
 
 ## 🚀 About Me
