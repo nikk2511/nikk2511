@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github.com/nikk2511/nikk2511/blob/main/assets/banner.png" alt="Nikhil Singh Banner" width="100%" style="border-radius: 10px; margin: 20px 0;" />
+  <img src="https://github.com/nikk2511/nikk2511/blob/main/assets/image.png" alt="Nikhil Singh Banner" width="100%" style="border-radius: 10px; margin: 20px 0;" />
 </div>
 
 ## 🚀 About Me
