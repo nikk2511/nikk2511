@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.creative-tim.com%2Fblog%2Feducational-tech%2Fhow-to-create-github-profile%2F&psig=AOvVaw1PpsvYzEtQKDaX4kVa_G0c&ust=1757351120633000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCNiCycqRx48DFQAAAAAdAAAAABAM" alt="Nikhil Singh Banner" width="100%" style="border-radius: 10px; margin: 20px 0;" />
+  <img src="https://github.com/nikk2511/nikk2511/assets/banner.png" alt="Nikhil Singh Banner" width="100%" style="border-radius: 10px; margin: 20px 0;" />
 </div>
 
 ## 🚀 About Me
