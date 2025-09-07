@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github.com/nikk2511/nikk2511/assets/banner.png" alt="Nikhil Singh Banner" width="100%" style="border-radius: 10px; margin: 20px 0;" />
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Ftopics%2Fgithub-profile-readme&psig=AOvVaw1z3BaMGMEg97qLw2xfjnQs&ust=1757350699464000&source=images&cd=vfe&opi=89978449&ved=2ahUKEwj_rOLSj8ePAxWETGwGHWteOb8QjRx6BAgAEBk" alt="Nikhil Singh Banner" width="100%" style="border-radius: 10px; margin: 20px 0;" />
 </div>
 
 ## 🚀 About Me
