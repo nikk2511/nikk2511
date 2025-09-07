@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FKambonoJeff%2FKambonoJeff&psig=AOvVaw1fN9ID-xZ_v07rPvS7LXNs&ust=1757350996592000&source=images&cd=vfe&opi=89978449&ved=2ahUKEwiq0LngkMePAxXCSGwGHRv6LzkQjRx6BAgAEBo" alt="Nikhil Singh Banner" width="100%" style="border-radius: 10px; margin: 20px 0;" />
+  <img src="https://www.google.com/imgres?q=banner%20for%20github%20profile&imgurl=https%3A%2F%2Frepository-images.githubusercontent.com%2F330349275%2F281486b8-097d-4fdb-a4a5-92fc485f920c&imgrefurl=https%3A%2F%2Fgithub.com%2Ftopics%2Fheader-image&docid=Q5z5kA-ziCw8kM&tbnid=RWVXcunvLufUHM&vet=12ahUKEwju0OCakcePAxULdPUHHYT-KRMQM3oFCIEBEAA..i&w=1280&h=640&hcb=2&itg=1&ved=2ahUKEwju0OCakcePAxULdPUHHYT-KRMQM3oFCIEBEAA" alt="Nikhil Singh Banner" width="100%" style="border-radius: 10px; margin: 20px 0;" />
 </div>
 
 ## 🚀 About Me
