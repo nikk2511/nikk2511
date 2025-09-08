@@ -75,7 +75,8 @@ jobs:
         run: |
           git add README.md
           git diff --staged --quiet || git commit -m "🔄 Auto-update profile stats - $(date '+%Y-%m-%d %H:%M:%S')"
-          git push
+          git pull origin main --rebase
+          git push origin main
           
       - name: Update Profile Views Badge
         run: |
