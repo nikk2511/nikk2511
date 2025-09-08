@@ -210,3 +210,10 @@ A modern, responsive portfolio website showcasing my projects and skills with sm
 <div align="center">
   <i>💡 "Code is like humor. When you have to explain it, it's bad." - Cory House</i>
 </div>
+
+
+---
+
+<div align="center">
+  <i>Last updated: September 8, 2025 at 08:14 AM IST</i>
+</div>
