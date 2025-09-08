@@ -9,10 +9,7 @@ on:
 jobs:
   update-readme:
     runs-on: ubuntu-latest
-
-    permissions:
-      contents: write 
-      
+    
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
@@ -68,17 +65,20 @@ jobs:
           
           node update-stats.js
           
+      - name: Set up git credentials
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}
+
       - name: Commit and push changes
         run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
           git add README.md
           git diff --staged --quiet || git commit -m "🔄 Auto-update profile stats - $(date '+%Y-%m-%d %H:%M:%S')"
           git push
           
       - name: Update Profile Views Badge
         run: |
-          # This step ensures the profile views badge gets updated
           echo "Profile views badge will be updated automatically by the badge service"
           
       - name: Generate Activity Summary
