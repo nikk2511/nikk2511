@@ -68,7 +68,7 @@ A secure anonymous messaging web application that enables users to share and rec
 - 💾 **Scalable Database** - Handled 500+ feedback entries
 - 👥 **User Engagement** - 100+ active users
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-00D9FF?style=for-the-badge&logo=vercel&logoColor=white)](https://anon-chat-demo.vercel.app)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-00D9FF?style=for-the-badge&logo=vercel&logoColor=white)](https://whispr-self.vercel.app)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nikk2511/anon-chat)
 
 ---
