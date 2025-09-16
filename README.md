@@ -101,8 +101,8 @@ A modern, responsive portfolio website showcasing my projects and skills with sm
 
 ## 📊 GitHub Statistics
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nikk2511&show_icons=true&theme=tokyonight&count_private=true" alt="Nikhil's GitHub Stats" />
+<div align="center"> 
+  <img src="https://github-readme-stats.vercel.app/api?username=nikk2511&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Nikhil's GitHub Stats" />
 </div>
 
 
