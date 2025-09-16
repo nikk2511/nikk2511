@@ -192,7 +192,7 @@ A modern, responsive portfolio website showcasing my projects and skills with sm
   <a href="mailto:imnik2511@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://whispr-self.vercel.app">
+  <a href="https://nikhil-navy.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-00D9FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
 </div>
