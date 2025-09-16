@@ -73,7 +73,7 @@ A secure anonymous messaging web application that enables users to share and rec
 
 ---
 
-### 🤖 AI Chatbot for Pooja - RAG-Powered Assistant
+### 🤖 AI Chatbot for Pooja - RAG - Powered Assistant
 **Tech Stack:** FastAPI, Next.js, LangChain, OpenAI API, Chroma VectorDB, MongoDB
 
 An intelligent chatbot that provides personalized pooja assistance using Retrieval-Augmented Generation (RAG) technology.
