@@ -217,5 +217,5 @@ A modern, responsive portfolio website showcasing my projects and skills with sm
 ---
 
 <div align="center">
-  <i>Last updated: December 13, 2025 at 07:13 AM IST
+  <i>Last updated: December 14, 2025 at 07:25 AM IST
 </div>
